@@ -134,6 +134,11 @@ As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a
 ### ⚡ Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#3](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
+2. 💪 Opened PR [#3](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
+3. ❌ Merged PR [#2](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
+4. 💪 Opened PR [#2](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
+5. ❌ Merged PR [#1](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
 <!--END_SECTION:activity-->
 
 <div align="center">
