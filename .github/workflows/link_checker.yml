@@ -1,0 +1,20 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Runs weekly at midnight UTC on Sunday
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check markdown links
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --verbose --format markdown README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

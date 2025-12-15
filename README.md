@@ -40,30 +40,28 @@ I bring this **operational pragmatism** to software development. I don't just bu
 
 I focus on **getting things done**. I use modern tools to build fast, scalable, and user-friendly applications.
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><b>The Logic (Backend)</b></td>
-    <td align="center" width="33%"><b>The Look (Frontend)</b></td>
-    <td align="center" width="33%"><b>The Workflow</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><br>
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /><br>
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /><br>
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br>
-      <img src="https://img.shields.io/badge/AI%20Workflow-8E75B2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Workflow" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h4 align="center">Backend & Data</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mongodb" />
+  </p>
+
+  <h4 align="center">Frontend & UI</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwindcss" />
+  </p>
+
+  <h4 align="center">DevOps & Workflow</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,vercel" />
+  </p>
+
+  <h4 align="center">Tools & Practices</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,jest,pytest" />
+    <img src="https://img.shields.io/badge/AI%20Workflow-8E75B2?style=flat-square&logo=openai&logoColor=white" alt="AI Workflow" />
+  </p>
+</div>
 
 ---
 
@@ -131,19 +129,26 @@ As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a
 
 ---
 
-### ⚡ Activity
+### ✨ My Activity Dashboard
 
-<!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
-2. 💪 Opened PR [#3](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
-3. ❌ Merged PR [#2](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
-4. 💪 Opened PR [#2](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
-5. ❌ Merged PR [#1](undefined) in [MushfiqPlabon/staticPortfolio](https://github.com/MushfiqPlabon/staticPortfolio)
-<!--END_SECTION:activity-->
+<!--START_SECTION:custom_metrics_summary-->
+<!--END_SECTION:custom_metrics_summary-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MushfiqPlabon&theme=neon&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushfiqPlabon&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Languages" />
+  <!--START_SECTION:commit_activity_chart-->
+  <!--END_SECTION:commit_activity_chart-->
+
+  <!--START_SECTION:language_chart-->
+  <!--END_SECTION:language_chart-->
+</div>
+
+<div align="center">
+  <!--START_SECTION:snake_animation-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+    <img alt="github-snake" src="assets/github-contribution-grid-snake.svg">
+  </picture>
+  <!--END_SECTION:snake_animation-->
 </div>
 
 <p align="center">
