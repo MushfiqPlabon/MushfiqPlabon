@@ -124,7 +124,7 @@ As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a
 
 ---
 
-### ✨ My Activity Dashboard
+### 📊 Activity Dashboard
 
 <!--START_SECTION:custom_metrics_summary-->
 <!--END_SECTION:custom_metrics_summary-->

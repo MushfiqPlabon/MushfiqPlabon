@@ -1,0 +1,15 @@
+# .markdownlint.yml
+# For more information, see https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+#
+# MD033/no-inline-html: Inline HTML
+# MD013/line-length: Line length
+# MD041/first-line-heading: First line in file should be a top level heading
+#
+# Disabling rules that conflict with existing README.md style (inline HTML, long lines)
+# and the starting HTML structure.
+#
+# Custom rule set for README.md
+MD033: false # Allow inline HTML for styling and badges
+MD013:
+  line_length: 9999 # Effectively disable line length checking
+MD041: false # Allow HTML at the start of the file
