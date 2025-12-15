@@ -127,14 +127,23 @@ As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a
 ### 📊 Activity Dashboard
 
 <!--START_SECTION:custom_metrics_summary-->
-<!--END_SECTION:custom_metrics_summary-->
+Made **222** commits in the last year across public repositories.
+
+Most active in **JavaScript** (42.5% of code).
+
+
+_Automated metrics via GitHub Actions._
+
+
 
 <div align="center">
   <!--START_SECTION:commit_activity_chart-->
-  <!--END_SECTION:commit_activity_chart-->
+<img src="assets/commit_activity.svg" alt="Commit Activity Chart" width="450" />
+
 
   <!--START_SECTION:language_chart-->
-  <!--END_SECTION:language_chart-->
+<img src="assets/top_languages.svg" alt="Top Languages Chart" width="300" />
+
 </div>
 
 <div align="center">
