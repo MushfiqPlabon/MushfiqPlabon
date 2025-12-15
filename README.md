@@ -124,35 +124,14 @@ As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a
 
 ---
 
-### 📊 Activity Dashboard
+### ⚡ Activity
 
-<!--START_SECTION:custom_metrics_summary-->
-Made **222** commits in the last year across public repositories.
-
-Most active in **JavaScript** (42.5% of code).
-
-
-_Automated metrics via GitHub Actions._
-
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
-  <!--START_SECTION:commit_activity_chart-->
-<img src="assets/commit_activity.svg" alt="Commit Activity Chart" width="450" />
-
-
-  <!--START_SECTION:language_chart-->
-<img src="assets/top_languages.svg" alt="Top Languages Chart" width="300" />
-
-</div>
-
-<div align="center">
-  <!--START_SECTION:snake_animation-->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-    <img alt="github-snake" src="assets/github-contribution-grid-snake.svg">
-  </picture>
-  <!--END_SECTION:snake_animation-->
+  <img src="https://github-readme-stats.vercel.app/api?username=MushfiqPlabon&theme=neon&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushfiqPlabon&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Languages" />
 </div>
 
 <p align="center">
