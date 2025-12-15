@@ -41,24 +41,19 @@ I bring this **operational pragmatism** to software development. I don't just bu
 I focus on **getting things done**. I use modern tools to build fast, scalable, and user-friendly applications.
 
 <div align="center">
-  <h4 align="center">Backend & Data</h4>
+  <h4 align="center">The Logic (Backend)</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql" />
   </p>
 
-  <h4 align="center">Frontend & UI</h4>
+  <h4 align="center">The Look (Frontend)</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwindcss" />
   </p>
 
-  <h4 align="center">DevOps & Workflow</h4>
+  <h4 align="center">The Workflow</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,vercel" />
-  </p>
-
-  <h4 align="center">Tools & Practices</h4>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,jest,pytest" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,vercel" />
     <img src="https://img.shields.io/badge/AI%20Workflow-8E75B2?style=flat-square&logo=openai&logoColor=white" alt="AI Workflow" />
   </p>
 </div>
