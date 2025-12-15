@@ -28,7 +28,7 @@
 
 ### 🌉 The Business-Tech Bridge
 
-My foundation isn't just code—it's **Crisis Management**.
+My foundation isn't just code, it's **Crisis Management**.
 
 I took over my family's **electronics business** during a critical transition. Managing financial issues, resource constraints, and administrative tasks under immense pressure taught me that **downtime has real costs** and **systems must be resilient**.
 
@@ -43,18 +43,18 @@ I focus on **getting things done**. I use modern tools to build fast, scalable, 
 <div align="center">
   <h4 align="center">The Logic (Backend)</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,supabase" />
   </p>
 
   <h4 align="center">The Look (Frontend)</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap" />
   </p>
 
   <h4 align="center">The Workflow</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,vercel" />
-    <img src="https://img.shields.io/badge/AI%20Workflow-8E75B2?style=flat-square&logo=openai&logoColor=white" alt="AI Workflow" />
+    <img src="https://skillicons.dev/icons?i=git,vercel,netlify" />
+    <img src="https://img.shields.io/badge/AI%20Agents-8E75B2?style=flat-square&logo=openai&logoColor=white" alt="AI-Agents" />
   </p>
 </div>
 
@@ -67,7 +67,7 @@ I think in **Systems**, not just scripts. Here is the architectural logic behind
 ```mermaid
 flowchart LR
     User(User / Admin)
-    
+
     subgraph Frontend [React + Redux UI]
         Auth[Auth Manager]
         Dash[Dashboard UI]
@@ -95,32 +95,32 @@ flowchart LR
 
 ### 🤖 My AI-Native Workflow (Human-in-the-Loop)
 
-I am an **AI-Augmented Developer**. I use AI not to think *for* me, but to execute *with* me.
+I am an **AI-Augmented Developer**. I use AI not to think _for_ me, but to execute _with_ me.
 
-| Stage | 👤 Human Responsibility (Me) | 🤖 AI Responsibility (The Tool) |
-| :--- | :--- | :--- |
-| **1. Design** | Define the **Schema**, **Data Relationships**, and **Business Rules**. | Suggest optimization patterns or alternative libraries. |
-| **2. Build** | Implement **Core Logic**, **Security Constraints**, and **Architecture**. | Generate boilerplate, type definitions, and repetitive CRUD ops. |
-| **3. Polish** | Review code for **Maintainability** and **Edge Cases**. | Write Unit Tests and generate Docstrings. |
+| Stage         | 👤 Human Responsibility (Me)                                              | 🤖 AI Responsibility (The Tool)                                  |
+| :------------ | :------------------------------------------------------------------------ | :--------------------------------------------------------------- |
+| **1. Design** | Define the **Schema**, **Data Relationships**, and **Business Rules**.    | Suggest optimization patterns or alternative libraries.          |
+| **2. Build**  | Implement **Core Logic**, **Security Constraints**, and **Architecture**. | Generate boilerplate, type definitions, and repetitive CRUD ops. |
+| **3. Polish** | Review code for **Maintainability** and **Edge Cases**.                   | Write Unit Tests and generate Docstrings.                        |
 
-> *Result: I ship production-ready features 3x faster than the average junior dev.*
+> _Result: The whole process is streamlined and efficient._
 
 ---
 
 ### 🚀 Key Projects
 
-| Project | The Engineering Challenge |
-| :--- | :--- |
+| Project                                                                                                                                                                  | The Engineering Challenge                                                                                                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **🏠 HomeSer**<br>_Service Marketplace_<br><br>[Live Demo](https://homeser-frontend-react.vercel.app/) • [Repo](https://github.com/MushfiqPlabon/homeser-frontend-react) | **Challenge:** Managing complex state between Admin and Client roles.<br>**Solution:** Implemented a strict **Role-Based Access Control (RBAC)** in Django middleware, ensuring data integrity regardless of frontend state. |
-| **🎟️ EventMan**<br>_Event Booking System_<br><br>[Live Demo](https://event-man-drab.vercel.app/) • [Repo](https://github.com/MushfiqPlabon/EventMan) | **Challenge:** Delivering a "Native App" feel on the mobile web without heavy JS bundles.<br>**Solution:** Leveraged **HTMX** to swap HTML fragments server-side, reducing Time-To-Interactive (TTI) drastically. |
+| **🎟️ EventMan**<br>_Event Booking System_<br><br>[Live Demo](https://event-man-drab.vercel.app/) • [Repo](https://github.com/MushfiqPlabon/EventMan)                     | **Challenge:** Delivering a "Native App" feel on the mobile web without heavy JS bundles.<br>**Solution:** Leveraged **HTMX** to swap HTML fragments server-side, reducing Time-To-Interactive (TTI) drastically.            |
 
 ---
 
 ### 🌍 Philosophy: "Knowing for the sake of Knowing" & Human-Centric Systems
 
-Inspired by **Dr. Roy Casagranda**, my curiosity isn't just academic; it's a boundless drive to understand **how systems impact people**, no matter the field. I delve into **any subject that piques my interest**—from history and geology to psychology and complex networks—because each reveals universal principles of structure, interaction, and resilience that I apply directly to software.
+Inspired by **Dr. Roy Casagranda**, my curiosity isn't just academic; it's a boundless drive to understand **how systems impact people**, no matter the field. I delve into **any subject that piques my interest**, from history and geology to psychology and complex networks; because each reveals universal principles of structure, interaction, and resilience that I apply directly to software.
 
-As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a profound empathy for the world's challenges. My work is grounded in a deep sense of **Stewardship**—a belief that we must be worthy caretakers of our world, striving to serve everyone and everything with integrity. This spiritual foundation fuels my commitment to building technology that genuinely solves human problems, enhances efficiency, and respects the user's experience. My work isn't just about code; it's about creating thoughtful, sustainable systems that contribute positively to the "real world" I've experienced firsthand.
+As an **Idealist (INFP-T)**, I'm driven by an intense desire for knowledge and a profound empathy for the world's challenges. My work is grounded in a deep sense of **Stewardship**, a belief that we must be worthy caretakers of our world, striving to serve everyone and everything with integrity. This spiritual foundation fuels my commitment to building technology that genuinely solves human problems, enhances efficiency, and respects the user's experience. My work isn't just about code; it's about creating thoughtful, sustainable systems that contribute positively to the "real world" I've experienced firsthand.
 
 ---
 
