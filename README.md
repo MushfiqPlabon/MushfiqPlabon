@@ -69,7 +69,7 @@ I focus on **getting things done**. I use modern tools to build fast, scalable, 
 I think in **Systems**, not just scripts. Here is the architectural logic behind my flagship project, **HomeSer**:
 
 ```mermaid
-flowchart LR
+flowchart TD
     User(User / Admin)
     
     subgraph Frontend [React + Redux UI]
