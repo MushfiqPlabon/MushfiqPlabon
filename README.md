@@ -72,17 +72,17 @@ I think in **Systems**, not just scripts. Here is the architectural logic behind
 flowchart LR
     User(User / Admin)
     
-    subgraph 🌐 Frontend [React + Redux UI]
+    subgraph Frontend [React + Redux UI]
         Auth[Auth Manager]
         Dash[Dashboard UI]
     end
 
-    subgraph ⚙️ Backend [Django REST Framework]
+    subgraph Backend [Django REST Framework]
         API[API Gateway]
         Logic[Business Logic & Permissions]
     end
 
-    subgraph 🗄️ Data [Persistence Layer]
+    subgraph Data [Persistence Layer]
         DB[(PostgreSQL)]
     end
 
